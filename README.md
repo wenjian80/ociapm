@@ -28,7 +28,7 @@ Below is the high level steps
 5. Put the password in vault, and gramnt polices for database mgt to read from that vault.
 6. Enabled db management in Observability & Management->Database Management->Administration
 7. Performance hub and awr explorer will be enabled for the databse vm.
-6. Service metrics can also be use and build own dashbaord.
+6. Service metrics can also be use and build own dashbaord. https://docs.oracle.com/en-us/iaas/Content/Dashboards/home.htm
 
 ## Screen shots
 
