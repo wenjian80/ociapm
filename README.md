@@ -22,11 +22,13 @@ Below is the high level steps
 Below is the high level steps
 
 1. Actually some blog have the details steps https://database-heartbeat.com/2021/09/13/enable-db-mgmt/
-2. In short, Observability & Management->Database Management->Administration->Create an pe 
-3. Enable dbsnmp  account with the necessary grant.
-4. Put the password in vault, and gramnt polices for database mgt to read from that vault.
-5. Enabled db management in Observability & Management->Database Management->Administration
-6. Performance hub nad awr explorer will be enabled for the databse vm.
+2. Refer to offical docs https://docs.oracle.com/en-us/iaas/database-management/doc/get-started-database-management.html
+3. In short, Observability & Management->Database Management->Administration->Create an pe 
+4. Enable dbsnmp  account with the necessary grant.
+5. Put the password in vault, and gramnt polices for database mgt to read from that vault.
+6. Enabled db management in Observability & Management->Database Management->Administration
+7. Performance hub and awr explorer will be enabled for the databse vm.
+6. Service metrics can also be use
 
 ## Screen shots
 
