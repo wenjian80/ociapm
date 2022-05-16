@@ -30,6 +30,17 @@ Below is the high level steps
 7. Performance hub and awr explorer will be enabled for the databse vm.
 6. Service metrics can also be use and build own dashbaord. https://docs.oracle.com/en-us/iaas/Content/Dashboards/home.htm
 
+## OCI APm open tracing for php
+
+Oci apm support php tracing using zipin
+
+https://docs.oracle.com/en/cloud/paas/application-performance-monitoring/apmph/
+
+https://docs.oracle.com/en-us/iaas/application-performance-monitoring/doc/configure-open-source-tracing-systems.html
+
+https://github.com/openzipkin/zipkin-php-example
+
+
 ## Screen shots
 
 WLS Apm example 1
