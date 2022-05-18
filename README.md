@@ -38,9 +38,10 @@ https://docs.oracle.com/en/cloud/paas/application-performance-monitoring/apmph/
 
 https://docs.oracle.com/en-us/iaas/application-performance-monitoring/doc/configure-open-source-tracing-systems.html
 
+https://blogs.oracle.com/observability/post/oci-apm-python-tracing-v2
+
 https://github.com/openzipkin/zipkin-php-example
 
-https://blogs.oracle.com/observability/post/oci-apm-python-tracing-v2
 
 
 ## Screen shots
