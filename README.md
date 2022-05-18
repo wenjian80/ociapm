@@ -40,6 +40,8 @@ https://docs.oracle.com/en-us/iaas/application-performance-monitoring/doc/config
 
 https://github.com/openzipkin/zipkin-php-example
 
+https://blogs.oracle.com/observability/post/oci-apm-python-tracing-v2
+
 
 ## Screen shots
 
