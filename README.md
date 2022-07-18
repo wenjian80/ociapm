@@ -43,6 +43,9 @@ https://blogs.oracle.com/observability/post/oci-apm-python-tracing-v2
 
 https://github.com/openzipkin/zipkin-php-example
 
+Refer to sample php app with tracing 
+https://github.com/wenjian80/oci-apm-python-example
+
 
 
 ## Screen shots
